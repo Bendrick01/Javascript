@@ -1,1 +1,1 @@
-# Javascript
+Repository for Javascript projects
